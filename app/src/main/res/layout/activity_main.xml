@@ -21,4 +21,12 @@
         android:padding="5dp"
         android:scaleType="center"
         android:src="@drawable/android_action_show" />
+
+    <!--<ImageView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:onClick="onClick"-->
+        <!--android:padding="5dp"-->
+        <!--android:scaleType="center"-->
+        <!--android:src="@drawable/pause_or_resume_change_drawable" />-->
 </LinearLayout>
