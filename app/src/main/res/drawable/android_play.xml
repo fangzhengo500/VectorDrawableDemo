@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/ic_android">
+
+    <target
+        android:name="head"
+        android:animation="@animator/android_head_animator" />
+
+    <target
+        android:name="left_hand"
+        android:animation="@animator/android_left_hand_animator" />
+
+    <target
+        android:name="right_hand"
+        android:animation="@animator/android_right_hand_animator" />
+</animated-vector>
